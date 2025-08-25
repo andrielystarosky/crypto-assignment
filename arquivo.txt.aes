@@ -1,0 +1,8 @@
+{
+  "alg": "AES-256-GCM+PBKDF2HMAC-SHA256",
+  "pbkdf2_iterations": 310000,
+  "salt": "tihl+MyDNjU8rmNXVaFxUg==",
+  "nonce": "+nSIGfJGfGZs505O",
+  "ciphertext": "U+Gb7YbaR+169comJ6KnbDXPR7Kn0gGsF4j7ROQVknBhObUa",
+  "tag": "eilHrjZwYwBcVH788igaAA=="
+}
